@@ -1,0 +1,14 @@
+#nav-container {
+    display: flex;
+}
+
+.top-quadrant {
+    width: 33%;
+    align-content: center;
+}
+
+.hover-card-div {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
